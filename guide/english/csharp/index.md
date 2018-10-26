@@ -10,6 +10,8 @@ C# has its roots in the family of C languages. It inherits most of its features 
 
 C# is an object-oriented language that provides support for component-oriented and functional programming.
 
+(Anders Hejlsberg, from Denmark, was the author of Turbo Pascal and the creator of Delphi).
+
 #### Classes and Objects
 Classes allow us to model everyday objects in the world around us in software. You can create custom classes to represent just about anything. Just like a noun is a person, place or thing in language, so too, a classes represents objects.
 
